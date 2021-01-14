@@ -15,6 +15,7 @@ A Kubernetes cluster consists of a set of worker machines, called nodes, that ru
 The worker node(s) host the Pods that are the components of the application workload. The control plane manages the worker nodes and the Pods in the cluster. In production environments, the control plane usually runs across multiple computers and a cluster usually runs multiple nodes, providing fault-tolerance and high availability.
 
 ![K8S High Level Arch](./k8s-arch.svg "K8s High Level Architecture")
+(Refered from: https://kubernetes.io/)
 
 Read about components in more details here
 - Control Plane Components: https://kubernetes.io/docs/concepts/overview/components/#control-plane-components
