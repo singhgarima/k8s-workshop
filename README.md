@@ -25,3 +25,7 @@ Read about components in more details here
 - Pod: https://kubernetes.io/docs/concepts/workloads/pods/
 - Deployment: https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 - ReplicaSet: https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
+
+## Lets get hands-on
+
+Go to [Workshop Instructions](./workshop-part1.md)
