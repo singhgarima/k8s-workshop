@@ -1,4 +1,4 @@
-# WORKSHOP
+# WORKSHOP - Part 1
 
 > Goal of this workshop:
 > **Setup Kubernetes cluster on your Mac machines**

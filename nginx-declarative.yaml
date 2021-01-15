@@ -1,0 +1,17 @@
+# file: nginx-declarative.yaml
+
+# Version of the K8s API
+apiVersion: v1
+
+# You are creating a Pod object
+kind: Pod
+
+# Data to identify the object uniquely
+metadata:
+  name: nginx-declarative # deployment name
+
+# Describes the ideal state of the Pod object
+spec:
+  containers:
+  - name: nginx
+    image: nginx
